@@ -21,7 +21,7 @@
                 "open_issues": 1406,
                 "owner": "react",
                 "repo": "react",
-                "stars": 250863,
+                "stars": 250862,
                 "topics": [
                   "declarative",
                   "frontend",
@@ -72,10 +72,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:57:02Z",
-                "open_issues": 1140,
+                "open_issues": 1142,
                 "owner": "angular",
                 "repo": "angular",
-                "stars": 101012,
+                "stars": 101013,
                 "topics": [
                   "angular",
                   "javascript",
@@ -111,7 +111,7 @@
                 "open_issues": 461,
                 "owner": "angular",
                 "repo": "angular.js",
-                "stars": 58487,
+                "stars": 58486,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:48.714Z"
@@ -186,7 +186,7 @@
                 "open_issues": 1113,
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 88229,
+                "stars": 88230,
                 "topics": [
                   "compiler",
                   "template",
@@ -211,7 +211,7 @@
                 "open_issues": 283,
                 "owner": "bigskysoftware",
                 "repo": "htmx",
-                "stars": 49538,
+                "stars": 49537,
                 "topics": [
                   "hateoas",
                   "html",
@@ -239,7 +239,7 @@
                 "open_issues": 50,
                 "owner": "preactjs",
                 "repo": "preact",
-                "stars": 38904,
+                "stars": 38903,
                 "topics": [
                   "components",
                   "dom",
@@ -264,11 +264,11 @@
                 "id": 130884470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:19:31Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-03T04:51:57Z",
+                "open_issues": 54,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 36093,
+                "stars": 36095,
                 "topics": [
                   "declarative",
                   "fine-grained",
@@ -285,7 +285,7 @@
             {
               "node_type": "item",
               "title": "Polymer - Build modern apps using web components.",
-              "description": null,
+              "description": "Polymer/polymer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,7 +485,7 @@
             {
               "node_type": "item",
               "title": "Elm - Server and client code for the Elm website.",
-              "description": null,
+              "description": "elm/core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -588,7 +588,7 @@
                 "open_issues": 1110,
                 "owner": "react",
                 "repo": "react-native",
-                "stars": 126786,
+                "stars": 126787,
                 "topics": [
                   "android",
                   "app-framework",
@@ -797,7 +797,7 @@
             {
               "node_type": "item",
               "title": "wepy - 小程序组件化开发框架",
-              "description": null,
+              "description": "Tencent/wepy",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -821,7 +821,7 @@
             {
               "node_type": "item",
               "title": "mpvue - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。",
-              "description": null,
+              "description": "Meituan-Dianping/mpvue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -848,7 +848,7 @@
             {
               "node_type": "item",
               "title": "Chameleon - 一套代码运行多端，一端所见即多端所见",
-              "description": null,
+              "description": "didi/chameleon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -878,7 +878,7 @@
             {
               "node_type": "item",
               "title": "Remax - 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发",
-              "description": null,
+              "description": "remaxjs/remax",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -938,7 +938,7 @@
             {
               "node_type": "item",
               "title": "Antmove - 编译型跨端解决方案，基于支付宝/微信小程序，轻松地转换成其它平台的小程序。",
-              "description": null,
+              "description": "ant-move/Antmove",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -969,7 +969,7 @@
             {
               "node_type": "item",
               "title": "alita - 把 React Native 代码转换成微信小程序代码的转换引擎工具。",
-              "description": null,
+              "description": "skyFi/weapp-native",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -996,7 +996,7 @@
             {
               "node_type": "item",
               "title": "weapp-native - 像 React 组件开发一样来开发微信小程序，开发微信小程序框架。",
-              "description": null,
+              "description": "skyFi/weapp-native",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1023,7 +1023,7 @@
             {
               "node_type": "item",
               "title": "Anna Remax UI - 一款基于 Remax 框架开发的小程序 UI 组件库。",
-              "description": null,
+              "description": "AnnaSearl/anna-remax-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1064,7 +1064,7 @@
                 "open_issues": 15,
                 "owner": "hyperapp",
                 "repo": "hyperapp",
-                "stars": 19193,
+                "stars": 19194,
                 "topics": [
                   "framework",
                   "javascript",
@@ -1215,7 +1215,7 @@
                 "id": 15720445,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:46:22Z",
+                "last_commit": "2026-10-03T04:35:48Z",
                 "open_issues": 33,
                 "owner": "marko-js",
                 "repo": "marko",
@@ -1258,7 +1258,7 @@
             {
               "node_type": "item",
               "title": "Knockout - Knockout makes it easier to create rich, responsive UIs with JavaScript.",
-              "description": null,
+              "description": "knockout/knockout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1313,7 +1313,7 @@
             {
               "node_type": "item",
               "title": "Choo - sturdy 4kb frontend framework.",
-              "description": null,
+              "description": "choojs/choo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1343,7 +1343,7 @@
             {
               "node_type": "item",
               "title": "Moon - A minimal, blazing fast UI library.",
-              "description": null,
+              "description": "kbrsh/moon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1390,7 +1390,7 @@
             {
               "node_type": "item",
               "title": "avalon - An elegant efficient express mvvm framework.",
-              "description": null,
+              "description": "RubyLouvre/avalon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,7 +1411,7 @@
             {
               "node_type": "item",
               "title": "Nerv - A blazing fast React alternative, compatible with IE8 and React 16.",
-              "description": null,
+              "description": "NervJS/nerv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1503,7 +1503,7 @@
             {
               "node_type": "item",
               "title": "RE:DOM - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.",
-              "description": null,
+              "description": "redom/redom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1531,7 +1531,7 @@
             {
               "node_type": "item",
               "title": "RE:DOM - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.",
-              "description": null,
+              "description": "redom/redom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1591,7 +1591,7 @@
             {
               "node_type": "item",
               "title": "react-lite - an implementation of React that optimizes for small script size.",
-              "description": null,
+              "description": "Lucifier129/react-lite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1642,7 +1642,7 @@
             {
               "node_type": "item",
               "title": "Superfine - Absolutely minimal view layer for building web interfaces.",
-              "description": null,
+              "description": "jorgebucaran/superfine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1702,7 +1702,7 @@
             {
               "node_type": "item",
               "title": "DoneJS - Is the easiest way to get a high-performance, real-time, web and mobile application done!",
-              "description": null,
+              "description": "donejs/donejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1821,7 +1821,7 @@
             {
               "node_type": "item",
               "title": "DYO - a library for building user interfaces.",
-              "description": null,
+              "description": "dyo/dyo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1931,7 +1931,7 @@
             {
               "node_type": "item",
               "title": "esx - Like JSX, but native and fast.",
-              "description": null,
+              "description": "esxjs/esx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1952,7 +1952,7 @@
             {
               "node_type": "item",
               "title": "Surplus - High performance JSX web views for S.js applications.",
-              "description": null,
+              "description": "adamhaile/surplus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2001,7 +2001,7 @@
             {
               "node_type": "item",
               "title": "Pux - Build type-safe web apps with PureScript.",
-              "description": null,
+              "description": "alexmingoia/purescript-pux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2028,7 +2028,7 @@
             {
               "node_type": "item",
               "title": "Etch - Builds components using a simple and explicit API around virtual-dom.",
-              "description": null,
+              "description": "atom/etch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2053,7 +2053,7 @@
             {
               "node_type": "item",
               "title": "Simulacra.js - Data-binding function for the DOM.",
-              "description": null,
+              "description": "gr0uch/simulacra",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2078,7 +2078,7 @@
             {
               "node_type": "item",
               "title": "petit-dom - minimalist virtual dom library.",
-              "description": null,
+              "description": "yelouafi/petit-dom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2130,7 +2130,7 @@
             {
               "node_type": "item",
               "title": "NX - A modular front-end framework - inspired by the server-side and Web Components.",
-              "description": null,
+              "description": "nx-js/framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2158,7 +2158,7 @@
             {
               "node_type": "item",
               "title": "Vidom - Library to build UI based on virtual DOM.",
-              "description": null,
+              "description": "dfilatov/vidom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2212,7 +2212,7 @@
             {
               "node_type": "item",
               "title": "Reflex - Functional reactive UI library.",
-              "description": null,
+              "description": "mozilla/reflex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2233,7 +2233,7 @@
             {
               "node_type": "item",
               "title": "Thermite - A simple PureScript wrapper for React.",
-              "description": null,
+              "description": "paf31/purescript-thermite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2254,7 +2254,7 @@
             {
               "node_type": "item",
               "title": "Dojo - meta information for the project.",
-              "description": null,
+              "description": "dojo/meta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2275,7 +2275,7 @@
             {
               "node_type": "item",
               "title": "Maka.js - An inheritable and strong logic template front-end mvvm framework.",
-              "description": null,
+              "description": "makajs/maka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2360,7 +2360,7 @@
             {
               "node_type": "item",
               "title": "Hyperdom - A fast, feature rich and simple framework for building dynamic browser applications.",
-              "description": null,
+              "description": "featurist/hyperdom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2388,7 +2388,7 @@
             {
               "node_type": "item",
               "title": "TSERS - Transform-Signal-Executor framework for Reactive Streams.",
-              "description": null,
+              "description": "tsers-js/core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2409,7 +2409,7 @@
             {
               "node_type": "item",
               "title": "Intact - An inheritable and strong logic template front-end mvvm framework.",
-              "description": null,
+              "description": "Javey/Intact",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2454,7 +2454,7 @@
             {
               "node_type": "item",
               "title": "Gruu - JavaScript library for creating dynamic content.",
-              "description": null,
+              "description": "MarekLabuz/gruu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2475,7 +2475,7 @@
             {
               "node_type": "item",
               "title": "rxdomh - Create DOM element and bind observables on it.",
-              "description": null,
+              "description": "xialvjun/rx-domh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2723,7 +2723,7 @@
             {
               "node_type": "item",
               "title": "unstated-next - 200 bytes to never think about React state management libraries ever again.",
-              "description": null,
+              "description": "jamiebuilds/unstated-next",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2749,7 +2749,7 @@
             {
               "node_type": "item",
               "title": "Constate - React Context + State.",
-              "description": null,
+              "description": "diegohaz/constate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2780,7 +2780,7 @@
             {
               "node_type": "item",
               "title": "Unistore - 350b/650b state container with component actions for Preact & React.",
-              "description": null,
+              "description": "developit/unistore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2808,7 +2808,7 @@
             {
               "node_type": "item",
               "title": "React Easy State - Simple React state management. Made with ❤️ and ES6 Proxies.",
-              "description": null,
+              "description": "RisingStack/react-easy-state",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2892,7 +2892,7 @@
             {
               "node_type": "item",
               "title": "react-hooks-global-state - Simple global state for React with Hooks API without Context API.",
-              "description": null,
+              "description": "dai-shi/react-hooks-global-state",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3079,11 +3079,11 @@
                 "id": 123625732,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T02:15:06Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-03T02:18:00Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "fast",
-                "stars": 9674,
+                "stars": 9673,
                 "topics": [
                   "adaptive-ui",
                   "animation-library",
@@ -3280,7 +3280,7 @@
                 "open_issues": 726,
                 "owner": "lit",
                 "repo": "lit",
-                "stars": 21840,
+                "stars": 21841,
                 "topics": [
                   "html-templates",
                   "lit",
@@ -3586,10 +3586,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T08:13:12Z",
-                "open_issues": 1096,
+                "open_issues": 1098,
                 "owner": "ant-design",
                 "repo": "ant-design",
-                "stars": 99661,
+                "stars": 99662,
                 "topics": [
                   "ant-design",
                   "antd",
@@ -3680,7 +3680,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-26T15:08:37Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "mantinedev",
                 "repo": "mantine",
                 "stars": 31791,
@@ -3707,11 +3707,11 @@
                 "id": 360522116,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T12:21:48Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-03T04:44:09Z",
+                "open_issues": 23,
                 "owner": "heroui-inc",
                 "repo": "heroui",
-                "stars": 30851,
+                "stars": 30853,
                 "topics": [
                   "component-library",
                   "components",
@@ -3765,7 +3765,7 @@
                 "open_issues": 2,
                 "owner": "magicuidesign",
                 "repo": "magicui",
-                "stars": 22446,
+                "stars": 22449,
                 "topics": [
                   "components",
                   "framer-motion",
@@ -3884,7 +3884,7 @@
                 "open_issues": 364,
                 "owner": "radix-ui",
                 "repo": "primitives",
-                "stars": 19359,
+                "stars": 19360,
                 "topics": [
                   "accessibility",
                   "colors",
@@ -3947,10 +3947,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T01:04:48Z",
-                "open_issues": 595,
+                "open_issues": 598,
                 "owner": "adobe",
                 "repo": "react-spectrum",
-                "stars": 15908,
+                "stars": 15909,
                 "topics": [
                   "accessibility",
                   "design-systems",
@@ -3974,7 +3974,7 @@
                 "id": 304740870,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:26:32Z",
+                "last_commit": "2026-10-03T04:57:28Z",
                 "open_issues": 100,
                 "owner": "tamagui",
                 "repo": "tamagui",
@@ -5300,7 +5300,7 @@
                 "open_issues": 21,
                 "owner": "zendeskgarden",
                 "repo": "react-components",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:48.714Z"
@@ -5699,7 +5699,7 @@
                 "id": 47776025,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:13:11Z",
+                "last_commit": "2026-10-03T03:20:40Z",
                 "open_issues": 30,
                 "owner": "instructure",
                 "repo": "instructure-ui",
@@ -6584,8 +6584,8 @@
                 "id": 975765002,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T02:08:02Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-03T03:36:17Z",
+                "open_issues": 22,
                 "owner": "allxsmith",
                 "repo": "bestax",
                 "stars": 11,
@@ -6971,7 +6971,7 @@
                 "open_issues": 703,
                 "owner": "tusen-ai",
                 "repo": "naive-ui",
-                "stars": 18565,
+                "stars": 18564,
                 "topics": [
                   "component-library",
                   "ui-components",
@@ -8660,7 +8660,7 @@
                 "open_issues": 1817,
                 "owner": "shadcn-ui",
                 "repo": "ui",
-                "stars": 125003,
+                "stars": 125011,
                 "topics": [
                   "base-ui",
                   "components",
@@ -8695,7 +8695,7 @@
                 "open_issues": 91,
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 97751,
+                "stars": 97754,
                 "topics": [
                   "css",
                   "css-framework",
@@ -8724,7 +8724,7 @@
                 "open_issues": 46,
                 "owner": "saadeghi",
                 "repo": "daisyui",
-                "stars": 42526,
+                "stars": 42527,
                 "topics": [
                   "component",
                   "component-library",
@@ -8766,7 +8766,7 @@
                 "open_issues": 115,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
-                "stars": 28766,
+                "stars": 28767,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -8796,7 +8796,7 @@
                 "open_issues": 107,
                 "owner": "mdbootstrap",
                 "repo": "TW-Elements",
-                "stars": 13180,
+                "stars": 13181,
                 "topics": [
                   "css",
                   "dashboard-templates",
@@ -9006,7 +9006,7 @@
                 "open_issues": 7,
                 "owner": "shadcnstudio",
                 "repo": "shadcn-studio",
-                "stars": 1921,
+                "stars": 1922,
                 "topics": [
                   "component",
                   "components-library",
@@ -9414,11 +9414,11 @@
                 "id": 675416843,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T02:29:08Z",
-                "open_issues": 84,
+                "last_commit": "2026-10-03T03:27:37Z",
+                "open_issues": 82,
                 "owner": "huntabyte",
                 "repo": "bits-ui",
-                "stars": 3590,
+                "stars": 3591,
                 "topics": [
                   "component-library",
                   "components",
@@ -9746,7 +9746,7 @@
                 "language": "Vue",
                 "license": "MIT",
                 "last_commit": "2026-10-03T00:49:40Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
                 "stars": 3024,
@@ -9843,7 +9843,7 @@
                 "open_issues": 229,
                 "owner": "twbs",
                 "repo": "bootstrap",
-                "stars": 174981,
+                "stars": 174984,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -10123,7 +10123,7 @@
                 "open_issues": 128,
                 "owner": "picocss",
                 "repo": "pico",
-                "stars": 16875,
+                "stars": 16876,
                 "topics": [
                   "css",
                   "css-framework",
@@ -10925,7 +10925,7 @@
                 "id": 304740870,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:26:32Z",
+                "last_commit": "2026-10-03T04:57:28Z",
                 "open_issues": 100,
                 "owner": "tamagui",
                 "repo": "tamagui",
@@ -12251,7 +12251,7 @@
                 "open_issues": 68,
                 "owner": "marmelab",
                 "repo": "react-admin",
-                "stars": 26945,
+                "stars": 26946,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -12462,7 +12462,7 @@
                 "id": 87954402,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:59:42Z",
+                "last_commit": "2026-10-03T04:43:17Z",
                 "open_issues": 8,
                 "owner": "MuYunyun",
                 "repo": "reactSPA",
@@ -12778,7 +12778,7 @@
                 "open_issues": 18,
                 "owner": "zxwk1998",
                 "repo": "vue-admin-better",
-                "stars": 18931,
+                "stars": 18932,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -12851,7 +12851,7 @@
                 "open_issues": 30,
                 "owner": "d2-projects",
                 "repo": "d2-admin",
-                "stars": 12623,
+                "stars": 12624,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:48.714Z"
@@ -13655,7 +13655,7 @@
                 "open_issues": 229,
                 "owner": "twbs",
                 "repo": "bootstrap",
-                "stars": 174981,
+                "stars": 174984,
                 "topics": [
                   "bootstrap",
                   "css",
@@ -14126,7 +14126,7 @@
             "open_issues": 316,
             "owner": "FortAwesome",
             "repo": "Font-Awesome",
-            "stars": 76946,
+            "stars": 76947,
             "topics": [
               "css",
               "font",
@@ -14155,7 +14155,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54061,
+            "stars": 54063,
             "topics": [
               "android",
               "icons",
@@ -14209,7 +14209,7 @@
             "open_issues": 453,
             "owner": "lucide-icons",
             "repo": "lucide",
-            "stars": 24823,
+            "stars": 24825,
             "topics": [
               "feather-icons",
               "figma",
@@ -14241,7 +14241,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23847,
+            "stars": 23846,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:48.714Z"
@@ -14262,7 +14262,7 @@
             "open_issues": 88,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21877,
+            "stars": 21882,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -14352,7 +14352,7 @@
             "open_issues": 604,
             "owner": "Remix-Design",
             "repo": "RemixIcon",
-            "stars": 8396,
+            "stars": 8395,
             "topics": [
               "icon",
               "icon-font",
@@ -14443,7 +14443,7 @@
                 "open_issues": 55,
                 "owner": "jnsahaj",
                 "repo": "tweakcn",
-                "stars": 10434,
+                "stars": 10435,
                 "topics": [
                   "shadcn",
                   "shadcn-theme",
@@ -14492,7 +14492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:17:53.873Z",
+    "last_updated": "2026-10-03T05:13:11.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect JS Frameworks, Web components library and Admin Template.",
@@ -14504,7 +14504,7 @@
       "open_issues": 1,
       "owner": "jaywcjlove",
       "repo": "awesome-uikit",
-      "stars": 1629,
+      "stars": 1630,
       "topics": [
         "angular",
         "angular-components",
